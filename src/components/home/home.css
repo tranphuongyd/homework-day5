@@ -1,0 +1,51 @@
+.center {
+    width: 65%;
+    float: left;
+    margin-left: 30px;
+}
+
+.right {
+    width: 30%;
+    float: left;
+    margin-left: 20px;
+}
+
+.clear {
+    clear: both;
+}
+
+.analysis {
+    font-family: cursive;
+}
+
+.analysis .container {
+    background-color: #eff3fc;
+    padding: 20px;
+}
+
+.analysis .report-img {
+    width: 20px;
+}
+
+.analysis .component {
+    width: 40%; 
+    float: left; 
+    margin-left: 20px; 
+    background-color: white; 
+    padding: 8px;
+}
+
+.request {
+    margin-top: 50px;
+}
+
+.request .row {
+    height: 30px;
+    line-height: 30px;
+    border-bottom: 1px solid #ccc;
+}
+
+.request .row span {
+    margin-left: 8px;
+    margin-right: 8px;
+}
